@@ -10,7 +10,7 @@ npm start
 **When done, go to your web browser and navigate to `localhost`.**
 
 ## How To Change 'Heavy' or 'Kid' Outfits on the Character Creator
-*Written verbatim by Wrapper Animate, as of `2020-03-25`*
+*Written verbatim by Wrapper Animate, as of `2020-10-3`*
 
 ### Intro:
 

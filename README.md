@@ -60,3 +60,6 @@ Example:
 <library theme_id="business" component_id="3002" type="GoFeet"/>
 </cc_char>
  ```
+### GoAnimate4SchoolsRemastered
+GoAnimate4SchoolsRemastered is illegal ripoff to wrapper online
+http://ga4sremastered-europe.herokuapp.com
